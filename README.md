@@ -6,7 +6,7 @@ This is a playful CSS art scene titled **"Teamwork in Motion"**, illustrating a 
 ## Inspiration
 This piece is a tribute to the little things that define office culture — spontaneous hallway chats, shared mugs, teamwork posters, and the charm of collaborative spaces. The minimal design and round-headed characters aim to evoke a welcoming and nostalgic vibe, inspired by real-life break rooms and fictional offices alike (*looking at you, Dunder Mifflin!*).
 
-## 🛠️ How I Built It
+## How I Built It
 - **HTML5**: Semantic elements for structure
 - **CSS3**: Box shapes, gradients, shadows, `::before` and `::after` pseudo-elements
 - **No JavaScript**, frameworks, or external assets — pure frontend fun!
