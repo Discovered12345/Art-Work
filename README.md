@@ -27,6 +27,5 @@ If expanded, this scene could include animation (blinking, sipping coffee), more
 
 ![image](https://github.com/user-attachments/assets/dfec04ad-3b84-408e-ad45-c6f95a84c20b)
 
-
-> ✨ Want to see it live? [View the CodePen here](#) (or deploy via GitHub Pages)
+> The Code is inside the other file of this repository
 
