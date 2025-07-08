@@ -25,7 +25,8 @@ If expanded, this scene could include animation (blinking, sipping coffee), more
 
 ## Preview
 
-![Office Culture CSS Art](./preview.png)
+![image](https://github.com/user-attachments/assets/dfec04ad-3b84-408e-ad45-c6f95a84c20b)
+
 
 > ✨ Want to see it live? [View the CodePen here](#) (or deploy via GitHub Pages)
 
