@@ -17,21 +17,15 @@ This piece is a tribute to the little things that define office culture — spon
 - Sticky note with rotation and drop shadow
 - Plant with stylized leaves and a geometric pot
 
-## ⚙️ Challenges
+## Challenges
 The biggest challenge was positioning and layering elements (e.g., window shadows, arms, heads) while keeping the code readable and scalable. It was a great exercise in precision and visual balance.
 
-## 🚀 What's Next?
+## What's Next?
 If expanded, this scene could include animation (blinking, sipping coffee), more coworkers, or even a light/dark theme toggle — all still with no JS!
 
-## 📸 Preview
+## Preview
 
 ![Office Culture CSS Art](./preview.png)
 
 > ✨ Want to see it live? [View the CodePen here](#) (or deploy via GitHub Pages)
 
-## 📝 License
-I grant Axero a worldwide, royalty-free license to display this project for promotional or marketing purposes, with credit. Full ownership remains with me.
-
-## 👤 Author
-**Andrew Ma**  
-GitHub: [@Discovered12345](https://github.com/Discovered12345)
