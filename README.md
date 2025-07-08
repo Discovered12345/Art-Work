@@ -6,22 +6,20 @@ This is a playful CSS art scene titled **"Teamwork in Motion"**, illustrating a 
 ## Inspiration
 This piece is a tribute to the little things that define office culture — spontaneous hallway chats, shared mugs, teamwork posters, and the charm of collaborative spaces. The minimal design and round-headed characters aim to evoke a welcoming and nostalgic vibe, inspired by real-life break rooms and fictional offices alike (*looking at you, Dunder Mifflin!*).
 
-## How I Built It
-- **HTML5**: Semantic elements for structure
-- **CSS3**: Box shapes, gradients, shadows, `::before` and `::after` pseudo-elements
-- **No JavaScript**, frameworks, or external assets — pure frontend fun!
+## Journey
 
-### Features
-- Layered shadow effects for depth
-- Simple facial expressions using only CSS
-- Sticky note with rotation and drop shadow
-- Plant with stylized leaves and a geometric pot
+This project was built entirely with semantic HTML and CSS, using only 358 lines of code to create a complete office scene. Every element — from the 18px-wide coffee mug handle to the 45px-tall characters — was crafted with box-model fundamentals:
 
-## Challenges
-The biggest challenge was positioning and layering elements (e.g., window shadows, arms, heads) while keeping the code readable and scalable. It was a great exercise in precision and visual balance.
-
-## What's Next?
-If expanded, this scene could include animation (blinking, sipping coffee), more coworkers, or even a light/dark theme toggle — all still with no JS!
+```css
+/* Example of CSS craftsmanship */
+.head {
+  width: 45px;
+  height: 45px;
+  background: linear-gradient(to bottom, #ffccbc, #d7ccc8);
+  border-radius: 50%;
+  /* Created facial features with ::before/::after */
+}
+```
 
 ## Preview
 
